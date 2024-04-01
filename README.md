@@ -1,1 +1,1 @@
-# Crytoghraphy-VigenereCipher-
+# Crytoghraphy-Types of Cipher-
